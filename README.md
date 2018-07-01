@@ -10,6 +10,7 @@ The steps would be:
 * Simple data manipulation
 * Model 1: use a stat package in python & regularization
 * Model 2: write gradient descent from scratch
-* Model 3: add regularization in model 2
-
+* Model 3: add regularization in model 2 (later)
+* Model 4: stochastic gradient descent (later)
+* Model 5: mini-batch gradient descent (later)
 
